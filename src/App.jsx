@@ -1,7 +1,8 @@
 import {useState} from "react";
 import "./App.css";
 import questions from "./contants/questions";
-import Question from  "./cmponents/question";
+import Question from './cmponents/question';
+
 import Result from  "./cmponents/Result";
 
 function App() {
