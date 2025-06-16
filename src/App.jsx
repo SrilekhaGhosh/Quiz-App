@@ -1,6 +1,7 @@
 import {useState} from "react";
 import "./App.css";
-import questions from "./contants/Questions";
+import questions from './contants/questions.json';
+
 import Question from './cmponents/Question';
 
 import Result from  "./cmponents/Result";
